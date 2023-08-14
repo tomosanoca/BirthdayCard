@@ -1,0 +1,17 @@
+body{
+  font-family: Verdana, Geneva, sans-serif;
+  background-color: gray;
+}
+
+
+#image{
+  display: block;
+  margin: auto;
+  margin-top: 10vh;
+  /*margin-bottom: 10vh;*/
+  height: 80vh;
+}
+
+#message, #message2{
+  text-align: center;
+}
